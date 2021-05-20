@@ -1,0 +1,9 @@
+C:\ArchitectPath\SalesTaxClient\APIHelperLib\bin\Debug\netstandard2.0\APIHelperLib.deps.json
+C:\ArchitectPath\SalesTaxClient\APIHelperLib\bin\Debug\netstandard2.0\APIHelperLib.dll
+C:\ArchitectPath\SalesTaxClient\APIHelperLib\bin\Debug\netstandard2.0\APIHelperLib.pdb
+C:\ArchitectPath\SalesTaxClient\APIHelperLib\obj\Debug\netstandard2.0\APIHelperLib.csprojAssemblyReference.cache
+C:\ArchitectPath\SalesTaxClient\APIHelperLib\obj\Debug\netstandard2.0\APIHelperLib.AssemblyInfoInputs.cache
+C:\ArchitectPath\SalesTaxClient\APIHelperLib\obj\Debug\netstandard2.0\APIHelperLib.AssemblyInfo.cs
+C:\ArchitectPath\SalesTaxClient\APIHelperLib\obj\Debug\netstandard2.0\APIHelperLib.csproj.CoreCompileInputs.cache
+C:\ArchitectPath\SalesTaxClient\APIHelperLib\obj\Debug\netstandard2.0\APIHelperLib.dll
+C:\ArchitectPath\SalesTaxClient\APIHelperLib\obj\Debug\netstandard2.0\APIHelperLib.pdb

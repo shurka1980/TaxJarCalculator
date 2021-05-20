@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7a2a7dad_002Db108_002D42b4_002Da44b_002D97dbcea01e50/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetTheTaxRatesForALocation_Should_ThrowException_WhenZipCodeIsNull #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0F268223-9706-43D7-AD15-D21B1335ED97::.NETCoreApp,Version=v3.1::TaxCalculator.Tests.TaxServiceTests.CalculateTheTaxesForAnOrder_HappyPath&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0F268223-9706-43D7-AD15-D21B1335ED97::.NETCoreApp,Version=v3.1::TaxCalculator.Tests.TaxJarCalculatorTests.CalculateTaxesForAnOrder_ThrowException_WhenCountryIsUSorCAToStateIsNull&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c7b63e07_002De09d_002D443e_002Db6a4_002Ddcd8037abb26/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetTheTaxRatesForALocation_Should_ThrowException_WhenZipCodeIsNull" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e2cbe287_002D1640_002D41d0_002D83a2_002D642b11321ff3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
