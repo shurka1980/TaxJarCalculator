@@ -18,13 +18,11 @@ namespace TaxCalculator.Service
         public async Task<TaxRateForLocation> GetTheTaxRatesForALocation(string zip, string country,
             string state, string city, string street)
         {
-            // implement validation
             return await _taxCalculatorClient.GetTheTaxRatesForALocation(zip, country, state, city, street);
         }
 
         public async Task<TaxForOrders> CalculateTheTaxesForAnOrder(Order order)
         {
-            //implement validation
             return await _taxCalculatorClient.CalculateTheTaxesForAnOrder(order);
         }
     }
